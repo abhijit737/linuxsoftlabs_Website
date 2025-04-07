@@ -241,7 +241,9 @@ const Careers = () => (
         Explore openings on
         <a href="https://linkedin.com/company/linuxsoftlabs" target="_blank" rel="noreferrer"> LinkedIn </a>
         or send your resume to
-        <a href="mailto:hr@linuxsoftlabs.com"> hr@linuxsoftlabs.com</a>
+        <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
+  Contact Us
+</a>
       </p>
       <h4 className="text-center text-Success">Better Together, Grow Together</h4>
       <p className="text-center">
@@ -295,7 +297,9 @@ const Careers = () => (
         Explore openings on
         <a href="https://linkedin.com/company/linuxsoftlabs" target="_blank" rel="noreferrer"> LinkedIn </a>
         or send your resume to
-        <a href="mailto:hr@linuxsoftlabs.com"> hr@linuxsoftlabs.com </a>
+        <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
+  Contact Us
+</a>
       </p>
     </div>
   </section>
@@ -450,11 +454,14 @@ const Contact = () => (
 
 <p>
 
-<a class="whatsapp-button" href="https://wa.me/9021220423" target="_blank">Click for WhatsApp message </a>
+<a class="whatsapp-button" href="https://wa.me/9021220423" target="_blank" rel="noreferrer">Click for WhatsApp message </a>
 </p>
 
 
-          <p><strong>Email:</strong> <a href="mailto:hr@linuxsoftlabs.com">hr@linuxsoftlabs.com</a></p>
+          <p><strong>Email:</strong> <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
+  Contact Us
+</a>
+</p>
         </div>
 
         <div className="col-md-6">

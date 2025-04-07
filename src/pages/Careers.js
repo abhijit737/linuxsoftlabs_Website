@@ -14,7 +14,9 @@ const Careers = () => (
           {" "}LinkedIn
         </a>{" "}
         or send your resume to
-        <a href="mailto:hr@linuxsoftlabs.com"> hr@linuxsoftlabs.com</a>
+        <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
+  Contact Us
+</a>
       </p>
     </div>
   </section>
