@@ -242,7 +242,7 @@ const Careers = () => (
         <a href="https://linkedin.com/company/linuxsoftlabs" target="_blank" rel="noreferrer"> LinkedIn </a>
         or send your resume to
         <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
-  Contact Us
+        hr@linuxsoftlabs.com
 </a>
       </p>
       <h4 className="text-center text-Success">Better Together, Grow Together</h4>
@@ -298,7 +298,7 @@ const Careers = () => (
         <a href="https://linkedin.com/company/linuxsoftlabs" target="_blank" rel="noreferrer"> LinkedIn </a>
         or send your resume to
         <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
-  Contact Us
+        hr@linuxsoftlabs.com
 </a>
       </p>
     </div>
@@ -459,7 +459,7 @@ const Contact = () => (
 
 
           <p><strong>Email:</strong> <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
-  Contact Us
+          hr@linuxsoftlabs.com
 </a>
 </p>
         </div>
