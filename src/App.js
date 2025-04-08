@@ -462,6 +462,10 @@ const Contact = () => (
           hr@linuxsoftlabs.com
 </a>
 </p>
+          <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/company/linuxsoftlabs" target="_blank" rel="noopener noreferrer">
+          Connect with us on LinkedIn
+</a>
+</p>
         </div>
 
         <div className="col-md-6">
