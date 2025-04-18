@@ -451,21 +451,34 @@ const Contact = () => (
           </p>
 
           <p>Feel free to send us a message on WhatsApp if you have any inquiries.</p>
-
 <p>
 
 <a class="whatsapp-button" href="https://wa.me/9021220423" target="_blank" rel="noreferrer">Click for WhatsApp message </a>
 </p>
 
-
-          <p><strong>Email:</strong> <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
+<p><strong>Email:</strong> <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
           hr@linuxsoftlabs.com
 </a>
+
 </p>
+
+
+
+<p><strong>Email:</strong> <a href="mailto:hr@linuxsoftlabs.com" target="_blank" rel="noopener noreferrer">
+          connect@linuxsoftlabs.com
+</a>
+
+</p>
+
+
+
           <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/company/linuxsoftlabs" target="_blank" rel="noopener noreferrer">
           Connect with us on LinkedIn
 </a>
 </p>
+
+
+
         </div>
 
         <div className="col-md-6">
